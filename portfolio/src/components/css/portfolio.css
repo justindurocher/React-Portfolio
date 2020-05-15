@@ -1,0 +1,19 @@
+.back2{
+    background-color: darkgray;
+    padding-top: 35px;
+    padding-bottom: 35px;
+    padding-left: 45px;
+    padding-right: 25px;
+}
+.card{
+    text-align: center;
+}
+.text{
+    font-family: 'ABeeZee', sans-serif;
+}
+.font{
+    font-family: 'Modak', cursive;
+    font-size: 20px;
+}
+
+@import url("https://fonts.googleapis.com/css2?family=ABeeZee&family=Modak&display=swap");
