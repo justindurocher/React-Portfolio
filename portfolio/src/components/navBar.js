@@ -11,7 +11,7 @@ class navbar extends Component {
         return(
 
             <Navbar bg="info" variant="dark" sticky="top">
-            <Navbar.Brand href="#home">Justin Durocher</Navbar.Brand>
+            <Navbar.Brand href="/">Justin Durocher</Navbar.Brand>
             <Nav className="mr-auto">
               <Nav.Link href="/">About Me</Nav.Link>
               <Nav.Link href="/portfolio">Projects</Nav.Link>

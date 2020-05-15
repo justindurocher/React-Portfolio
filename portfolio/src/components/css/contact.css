@@ -4,3 +4,37 @@
 .contactPic{
     border : solid 2px gold;
 }
+.git{
+    font-size: 20px;
+    font-weight: bold;
+    color: gold;
+}
+.git:hover{
+    color: black;
+}
+.link{
+    font-size: 20px;
+    font-weight: bold;
+    color: gold;
+}
+.link:hover{
+    color: black;
+}
+.github{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.linkedin{
+    font-size: 20px;
+    color: black;
+    font-weight: bold;
+}
+.email{
+    font-size: 20px;
+    font-weight: bold;
+}
+.phone{
+    font-size: 20px;
+    font-weight: bold;
+}

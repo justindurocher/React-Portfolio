@@ -38,6 +38,46 @@ class contact extends Component {
 
                      </Row>
 
+                     <Row>
+
+                        <Col sm="12" className="github">
+                        
+                          Github : <a href="https://github.com/justindurocher" className="git"> justindurocher</a>
+                        
+                        </Col>
+
+                     </Row>
+
+                     <Row>
+
+                        <Col sm="12" className="linkedin">
+                        
+                          LinkedIn : <a href="https://www.linkedin.com/in/justin-durocher-a34946197" className="link"> justin-durocher</a>
+                        
+                        </Col>
+
+                     </Row>
+
+                     <Row>
+
+                        <Col sm="12" className="email">
+
+                            Email : justduro@gmail.com
+
+                        </Col>
+
+                     </Row>
+
+                     <Row>
+
+                        <Col className="phone">
+                        
+                            Phone : 1-(860)-(808)-(4596) 
+                        
+                        </Col>
+
+                     </Row>
+
                 </div>
 
                 <Row>
