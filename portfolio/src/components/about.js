@@ -20,7 +20,7 @@ class about extends Component {
 
                     <Col sm="12" className="banner">
                     
-                        About Me
+                        React.js Portfolio
                     
                     </Col>
 
@@ -42,7 +42,7 @@ class about extends Component {
 
                     <Col sm="12" className="intro">
                     
-                        Hello, my name is Justin Durocher and I am 20 years old and live in Hartford CT. I currently am employed as a overnight supervisor at UPS, and a valet attendant at the Marriot Hotel in Downtown Hartford.
+                        Hello, my name is Justin Durocher and I am 20 years old and live in the Greater Hartford area in Connecticut. I currently am employed as a overnight supervisor at UPS, and a valet attendant at the Marriot Hotel and Captial Grille in Downtown Hartford.
 
                     </Col>
 
@@ -52,7 +52,7 @@ class about extends Component {
 
                     <Col sm="12" className="intro">
                     
-                        I have been learning how to code for the past year and want to work in that professional field when I am older. I currently am in a full stack web development bootcamp learning how to build prograssive web applications in React.js and Node.js.
+                        I have been learning how to code for the past year and have been actively seeking a full-time job in that professional field when I am older. I have just completed a full stack web development bootcamp at UCONN; learning how to build prograssive web applications in React.js and Node.js.
                     
                     </Col>
 

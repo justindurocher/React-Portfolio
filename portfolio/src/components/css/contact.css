@@ -4,6 +4,10 @@
 .contactPic{
     border : solid 2px gold;
 }
+.contactPic:hover{
+    transform: rotate(-360deg);
+    transition-duration: 2s;
+}
 .git{
     font-size: 20px;
     font-weight: bold;
@@ -19,6 +23,9 @@
 }
 .link:hover{
     color: black;
+}
+.margin{
+    margin-top: 20px;
 }
 .github{
     font-size: 20px;
@@ -37,4 +44,18 @@
 .phone{
     font-size: 20px;
     font-weight: bold;
+}
+.yourEmail,.yourPhone{
+    color: gold;
+}
+.yourEmail:hover,.yourPhone:hover{
+    color: black;
+}
+.gitHubLogo:hover,.gmailLogo:hover{
+        transform: rotate(360deg);
+        transition-duration: .5s;
+}
+.linkedLogo:hover,.phoneLogo:hover{
+        transform: rotate(-360deg);
+        transition-duration: .5s;
 }
