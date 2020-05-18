@@ -42,7 +42,7 @@ class about extends Component {
 
                     <Col lg="12" className="intro">
                     
-                        Hello, my name is Justin Durocher and I am 20 years old and live in the Greater Hartford area in Connecticut. I currently am employed as a overnight supervisor at UPS, and a valet attendant at the Marriot Hotel and Captial Grille in Downtown Hartford.
+                        Hello, my name is Justin Durocher and I am 20 years old and live in the Greater Hartford area in Connecticut. I currently am employed as a valet attendant at the Marriot Hotel and Captial Grille in Downtown Hartford, and I also freelance on the side.
 
                     </Col>
 
