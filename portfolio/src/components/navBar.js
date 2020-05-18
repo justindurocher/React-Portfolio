@@ -13,10 +13,10 @@ class navbar extends Component {
             <Navbar bg="info" variant="dark" sticky="top" className="navBar">
             <Navbar.Brand href="/">Justin Durocher</Navbar.Brand>
             <Nav className="mr-auto">
-              <Nav.Link href="/">About Me</Nav.Link>
+              <Nav.Link href="/">About</Nav.Link>
               <Nav.Link href="/portfolio">Projects</Nav.Link>
               <Nav.Link href="https://docs.google.com/document/d/16A5Z64eX0jHCl3c2y4zLkMO4XZwj6elAXm6BUK64ct4/edit?usp=sharing" target="_blank">Resume</Nav.Link>
-              <Nav.Link href="/contact">Contact Me</Nav.Link>
+              <Nav.Link href="/contact">Contact</Nav.Link>
             </Nav>
             </Navbar>
 

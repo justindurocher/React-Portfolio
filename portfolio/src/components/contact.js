@@ -80,7 +80,7 @@ class contact extends Component {
 
                         <Col lg="12" className="phone">
                         
-                        <img src={Phone} alt="git" height="20px" width="20px" className="phoneLogo"/> Phone : <a className="yourPhone" href="https://support.apple.com/explore/messages" target="_blank"> Phone : 1-(860)-(808)-(4596) </a>
+                        <img src={Phone} alt="git" height="20px" width="20px" className="phoneLogo"/> Phone : <a className="yourPhone" href="https://support.apple.com/explore/messages" target="_blank"> 1-(860)-(808)-(4596) </a>
                         
                         </Col>
 
