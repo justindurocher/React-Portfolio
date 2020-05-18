@@ -36,7 +36,7 @@ class portfolio extends Component{
 
                             <Row>
 
-                                <Col lg="4">
+                                <Col lg="4" className="margin-bottom">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
@@ -63,7 +63,7 @@ class portfolio extends Component{
 
                                     </Col>
 
-                                <Col lg="4">
+                                <Col lg="4" className="margin-bottom">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
@@ -89,7 +89,7 @@ class portfolio extends Component{
            
                                 </Col>
 
-                                <Col lg="4">
+                                <Col lg="4" className="margin-bottom">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
