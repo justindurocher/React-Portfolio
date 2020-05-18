@@ -10,7 +10,7 @@ class navbar extends Component {
     render(){
         return(
 
-            <Navbar bg="info" variant="dark" sticky="top">
+            <Navbar bg="info" variant="dark" sticky="top" className="navBar">
             <Navbar.Brand href="/">Justin Durocher</Navbar.Brand>
             <Nav className="mr-auto">
               <Nav.Link href="/">About Me</Nav.Link>
