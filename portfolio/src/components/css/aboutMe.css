@@ -54,12 +54,9 @@
     Col{
         width : 100%;
     }
-
-    .profilePic{
-
-        position: relative;
-        right : 100px;
-
+    .back{
+        padding-left: 0px;
+        padding-right: 0px;
     }
 
 }
