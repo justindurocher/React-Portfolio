@@ -12,7 +12,7 @@ import Gmail from './images/Gmail-Logo.jpg';
 
 import './css/contact.css';
 
-import Profile from './images/profilePic.JPEG';
+import Lax from './images/laxTiny.jpg';
 
 class contact extends Component {
 
@@ -40,7 +40,7 @@ class contact extends Component {
 
                          <Col lg="12">
                         
-                            <img src={Profile} alt="Profile" height="240px" width="250px" className="contactPic"/>
+                            <img src={Lax} alt="Profile" height="240px" width="250px" className="contactPic"/>
 
                         </Col>
 
