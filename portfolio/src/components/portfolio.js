@@ -22,7 +22,7 @@ class portfolio extends Component{
 
                     <Row>
 
-                        <Col sm="12" className="banner">
+                        <Col lg="12" className="banner">
                         
                             Projects
                         
@@ -36,7 +36,7 @@ class portfolio extends Component{
 
                             <Row>
 
-                                <Col sm="4">
+                                <Col lg="4">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
@@ -63,7 +63,7 @@ class portfolio extends Component{
 
                                     </Col>
 
-                                <Col sm="4">
+                                <Col lg="4">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
@@ -89,7 +89,7 @@ class portfolio extends Component{
            
                                 </Col>
 
-                                <Col sm="4">
+                                <Col lg="4">
 
                                 <Card style={{ width: '18rem' }} className="card">
 
@@ -123,7 +123,7 @@ class portfolio extends Component{
 
                     <Row>
 
-                        <Col className="footer">
+                        <Col lg="12" className="footer">
 
                             Copyright©
 

@@ -26,7 +26,7 @@ class contact extends Component {
 
                     <Row>
 
-                        <Col sm="12" className="banner">
+                        <Col lg="12" className="banner">
                     
                             Contact Me
                     
@@ -38,7 +38,7 @@ class contact extends Component {
     
                     <Row className="margin">
 
-                         <Col sm="12">
+                         <Col lg="12">
                         
                             <img src={Profile} alt="Profile" height="240px" width="250px" className="contactPic"/>
 
@@ -48,7 +48,7 @@ class contact extends Component {
 
                      <Row className="margin">
 
-                        <Col sm="12" className="github">
+                        <Col lg="12" className="github">
                         
                          <img src={Github} alt="git" height="20px" width="20px" className="gitHubLogo"/> Github : <a href="https://github.com/justindurocher" className="git" target="_blank"> justindurocher</a>
                         
@@ -58,7 +58,7 @@ class contact extends Component {
 
                      <Row className="margin">
 
-                        <Col sm="12" className="linkedin">
+                        <Col lg="12" className="linkedin">
                         
                         <img src={Linked} alt="git" height="20px" width="20px" className="linkedLogo"/> LinkedIn : <a href="https://www.linkedin.com/in/justin-durocher-a34946197" className="link" target="_blank"> justin-durocher</a>
                         
@@ -68,7 +68,7 @@ class contact extends Component {
 
                      <Row className="margin">
 
-                        <Col sm="12" className="email">
+                        <Col lg="12" className="email">
 
                         <img src={Gmail} alt="git" height="20px" width="20px" className="gmailLogo"/> Email : <a className="yourEmail" href="https://www.google.com/gmail" target="_blank"> justduro@gmail.com </a>
 
@@ -78,7 +78,7 @@ class contact extends Component {
 
                      <Row className="margin">
 
-                        <Col className="phone">
+                        <Col lg="12" className="phone">
                         
                         <img src={Phone} alt="git" height="20px" width="20px" className="phoneLogo"/> Phone : <a className="yourPhone" href="https://support.apple.com/explore/messages" target="_blank"> Phone : 1-(860)-(808)-(4596) </a>
                         
@@ -90,7 +90,7 @@ class contact extends Component {
 
                 <Row>
 
-                        <Col className="footer">
+                        <Col lg="12" className="footer">
                     
                             Copyright©
 
@@ -101,32 +101,6 @@ class contact extends Component {
                 </Container>
 
             </div>
-            
-            // <div className="contactForm">
-
-            //     <div className="contactMe">Contact Me:</div>
-
-            //     <br></br>
-
-            //     <div className="list">
-
-            //         GitHub : <a href="https://github.com/justindurocher"> justindurocher</a>
-
-            //         <br></br>
-
-            //         LinkedIn : <a href="https://www.linkedin.com/in/justin-durocher-a34946197/">justin-durocher</a>
-
-            //         <br></br>
-
-            //         Email : justduro@gmail.com
-
-
-            //         <br></br>
-
-            //         Phone : 1-(860)-(808)-(4596)
-
-            //     </div>
-            // </div>
 
         )
 

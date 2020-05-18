@@ -18,7 +18,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col sm="12" className="banner">
+                    <Col lg="12" className="banner">
                     
                         React.js Portfolio
                     
@@ -30,7 +30,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col sm="12" className="profile">
+                    <Col lg="12" className="profile">
                     
                         <img className="profilePic" src={Profile} height="240px" width="250px" alt="Profile Pic"/>
 
@@ -40,7 +40,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col sm="12" className="intro">
+                    <Col lg="12" className="intro">
                     
                         Hello, my name is Justin Durocher and I am 20 years old and live in the Greater Hartford area in Connecticut. I currently am employed as a overnight supervisor at UPS, and a valet attendant at the Marriot Hotel and Captial Grille in Downtown Hartford.
 
@@ -50,7 +50,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col sm="12" className="intro">
+                    <Col lg="12" className="intro">
                     
                         I have been learning how to code for the past year and have been actively seeking a full-time job in that professional field when I am older. I have just completed a full stack web development bootcamp at UCONN; learning how to build prograssive web applications in React.js and Node.js.
                     
@@ -60,7 +60,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col sm="12" className="intro">
+                    <Col lg="12" className="intro">
                     
                         When I am not coding or working, I am usually outside enjoying the weather, playing sports with friends, or watching television with the family at home.
                     
@@ -72,7 +72,7 @@ class about extends Component {
 
                 <Row>
 
-                    <Col className="footer">
+                    <Col lg="12" className="footer">
                     
                         Copyright©
 
