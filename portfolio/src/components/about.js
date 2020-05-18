@@ -52,7 +52,7 @@ class about extends Component {
 
                     <Col lg="12" className="intro">
                     
-                        I have been learning how to code for the past year and have been actively seeking a full-time job in that professional field when I am older. I have just completed a full stack web development bootcamp at UCONN; learning how to build prograssive web applications in React.js and Node.js.
+                        I have been learning how to code for the past year and have been actively seeking a full-time job in that professional field. I have just completed a full stack web development bootcamp at UCONN; learning how to build progressive web applications in React.js and Node.js.
                     
                     </Col>
 
