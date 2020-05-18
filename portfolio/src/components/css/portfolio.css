@@ -24,4 +24,16 @@
         width : 100%;
     }
 
+    .back{
+
+        padding-left: 0px;
+        padding-right: 0px;
+
+    }
+    .card{
+
+        padding-bottom: 25px;
+
+    }
+
 }
