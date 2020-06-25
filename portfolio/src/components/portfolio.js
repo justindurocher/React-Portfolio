@@ -4,9 +4,9 @@ import {Container,Row,Col,Card,Button} from 'react-bootstrap';
 
 import videogame from './images/Capture3.PNG';
 
-import NBA from './images/game.PNG';
+import Weather from './images/weather.png';
 
-import Living from './images/living.png'
+import Planner from './images/Capture.PNG'
 
 import './css/portfolio.css'
 
@@ -54,7 +54,7 @@ class portfolio extends Component{
 
                                     </Card.Text>
 
-                                        <Button variant="info" href="https://justindurocher.github.io/Video-Game-Search-App">View</Button>
+                                        <Button variant="info" href="https://justindurocher.github.io/Video-Game-Search-App" target="_blank">View</Button>
 
                                     </Card.Body>
 
@@ -67,21 +67,20 @@ class portfolio extends Component{
 
                                 <Card style={{ width: '18rem' }} className="card">
 
-                                    <Card.Img variant="top" src={NBA} height="160px" width="180px"/>
+                                    <Card.Img variant="top" src={Weather} height="160px" width="180px"/>
 
                                     <Card.Body>
 
-                                    <Card.Title className="font">NBA Javascript Game</Card.Title>
+                                    <Card.Title className="font">Weather Dashboard</Card.Title>
 
                                     <Card.Text className="text">
 
-                                            In this application, the user is able choose from all well known NBA Players
-
-                                            to play in a computer basketball shooting contest. Highest Score Wins!
+                                            In this application, the user is able input their current city location to 
+                                            see the current weather, as well as a five day forcast.
 
                                     </Card.Text>
 
-                                        <Button variant="info" href="https://justindurocher.github.io/NBA-Game/public/">View</Button>
+                                        <Button variant="info" href="https://justindurocher.github.io/Weather-Dashboard/" target="_blank">View</Button>
 
                                     </Card.Body>
 
@@ -93,21 +92,20 @@ class portfolio extends Component{
 
                                 <Card style={{ width: '18rem' }} className="card">
 
-                                    <Card.Img variant="top" src={Living} height="160px" width="180px" />
+                                    <Card.Img variant="top" src={Planner} height="160px" width="180px" />
 
                                     <Card.Body>
 
-                                    <Card.Title className="font">Living.js</Card.Title>
+                                    <Card.Title className="font">Day Planner</Card.Title>
 
                                     <Card.Text className="text">
 
-                                            In this application, the user is able to compare their current cities living wages, population,
-
-                                            and much more. The application also shows prior search history.
+                                            In this application, the user is able to plan out their nine to five day schedules.
+                                            As the day goes on, the blocks will be color coated to show the time of day.
 
                                     </Card.Text>
 
-                                        <Button variant="info">View</Button>
+                                        <Button variant="info" href="https://justindurocher.github.io/Day-Planner/" target="_blank">View</Button>
 
                                     </Card.Body>
 
