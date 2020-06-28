@@ -2,7 +2,7 @@
 
 <h3><---------- Laptop and Mobile Use ----------></h3>
   
-<h3>[React Portfolio](https://justindurocherfullstack.herokuapp.com/)
+<h3>https://justindurocherfullstack.herokuapp.com
 
 <h1>Installation</h1>
     
