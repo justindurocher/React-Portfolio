@@ -14,9 +14,11 @@
 
 <br> 
 
-<img src="./img/" alt="screenshot">
+<img src="./portfolio/src/components/images/homePage.png" alt="screenshot">
 
-<img src="./img" alt="screenshot">
+<img src="./portfolio/src/components/images/projects.png" alt="screenshot">
+
+<img src="./portfolio/src/components/images/contactMe.png" alt="screenshot">
 
 <h3>Technologies Used</h3>
 
