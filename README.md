@@ -10,11 +10,27 @@
 
 <h1>Usage</h1>
 
-<p>The purpose of this application is for users who want to check either what the current weather is of a certain city, or check up on the five day forecast is predicted to be. There is a search bar located in the top left corner where the user can search up as many as 10 cities that will keep popping up as blocks under the search bar. Once the user clicks on one of those blocks, the weather data will be displayed on the dashboard to the right.</p>
+<p>The purpose of this application is for myself as a full stack web developer, to show off my recent and most accomplished projects that I have created through the years of me learning how to code.</p>
 
 <br> 
 
-<img src="./img/weather.png" alt="screenshot">
+<img src="./img/" alt="screenshot">
+
+<img src="./img" alt="screenshot">
+
+<h3>Technologies Used</h3>
+
+<ul>
+  <li>HTML5</li>
+  <li>CSS3</li>
+  <li>React Bootstrap</li>
+  <li>React Animations</li>
+  <li>React</li>
+  <li>Node</li>
+  <li>WebPack</li>
+  <li>TinyPng</li>
+  <li>NPM & NPX</li>
+</ul>
 
 <h1>Contributors</h1>
 
@@ -30,7 +46,6 @@
     <li>www.google.com</li>
     <li>www.stackoverflow.com</li>
     <li>Visual Studio Code</li>
-    <li>WeatherApi</li>
 </ul>
 
 
