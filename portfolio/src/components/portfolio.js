@@ -56,6 +56,27 @@ class portfolio extends Component{
 
                                         <Button variant="info" href="https://justindurocher.github.io/Video-Game-Search-App" target="_blank">View</Button>
 
+                                        <Row className="spacing">
+
+                                            <Col>
+                                            
+                                                Github Link:
+                                            
+                                            </Col>
+
+                                        </Row>
+
+                                        <Row>
+
+
+                                            <Col>
+                                            
+                                                <a className="githubLink" href="https://github.com/justindurocher/Video-Game-Search-App" target="_blank">Game News App</a> 
+                                            
+                                            </Col>
+
+                                        </Row>
+
                                     </Card.Body>
 
                                 </Card>
@@ -82,6 +103,27 @@ class portfolio extends Component{
 
                                         <Button variant="info" href="https://justindurocher.github.io/Weather-Dashboard/" target="_blank">View</Button>
 
+                                        <Row className="spacing">
+
+                                            <Col>
+
+                                                Github Link:
+
+                                            </Col>
+
+                                            </Row>
+
+                                            <Row>
+
+
+                                            <Col>
+
+                                                <a className="githubLink" href="https://github.com/justindurocher/Weather-Dashboard" target="_blank">Weather Dashboard</a> 
+
+                                            </Col>
+
+                                            </Row>
+
                                     </Card.Body>
 
                                 </Card>
@@ -106,6 +148,27 @@ class portfolio extends Component{
                                     </Card.Text>
 
                                         <Button variant="info" href="https://justindurocher.github.io/Day-Planner/" target="_blank">View</Button>
+
+                                        <Row className="spacing">
+
+                                            <Col>
+
+                                                Github Link:
+
+                                            </Col>
+
+                                            </Row>
+
+                                            <Row>
+
+
+                                            <Col>
+
+                                                <a className="githubLink" href="https://github.com/justindurocher/Day-Planner" target="_blank">Day Planner</a> 
+
+                                            </Col>
+
+                                            </Row>
 
                                     </Card.Body>
 
